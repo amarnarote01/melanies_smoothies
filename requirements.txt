@@ -1,0 +1,7 @@
+name: app_environment
+channels:
+- snowflake
+4 dependencies:
+- snowflake-python=3.8.*
+- snowflake-snowpark-python=
+- streamlit=1.22.0
